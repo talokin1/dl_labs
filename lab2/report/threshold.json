@@ -1,0 +1,8 @@
+{
+  "t_star": 0.031193982809782028,
+  "t_star_hex": "0x1.ff150c0000000p-6",
+  "rule": "fraud if s >= t_star",
+  "cost": "C = 10*FN + FP",
+  "chosen_on": "validation",
+  "tie_break": "largest threshold among minimal C"
+}

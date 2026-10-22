@@ -1,0 +1,5 @@
+threshold,TP,FP,FN,TN,C,selected
+inf,0,0,0,3,0,True
+0.9,0,1,0,2,1,False
+0.6,0,2,0,1,2,False
+0.3,0,3,0,0,3,False
